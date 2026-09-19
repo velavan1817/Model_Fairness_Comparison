@@ -1,0 +1,3 @@
+gender,true_positive_rate,false_positive_rate
+Female,0.9479,0.0374
+Male,1.0,0.0182
